@@ -200,7 +200,7 @@ pip install dynaconf
         **Optionally** store sensitive data in a local only file `.secrets.toml`
         ```toml
         [development]
-        password = "s3cr3t"
+        password = "moriss"
         token = "dfgrfg5d4g56ds4gsdf5g74984we5345-"
         message = "This file doesn't go to your pub repo"
         ```
